@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+    background: #FCFDC3;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+    font-family: comic sans ms;
+}
+#header {
+    height: 100px;
+    background: #262239;
+}
+#content {
+    height: 600px;
+    background: #959C58;
+}
+#footer {
+    height: 50px;
+    background: #520C00;
+}
